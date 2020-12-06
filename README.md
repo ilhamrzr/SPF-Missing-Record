@@ -13,5 +13,8 @@
 > python3 spf.py
 
 
+> Note : enter the API on the apiKey line
+
+
 
 Enjoy it :)
